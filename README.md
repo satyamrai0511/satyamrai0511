@@ -31,7 +31,7 @@ Welcome to my GitHub! I’m passionate about creating, learning, and contributin
 
 ### 📫 How to reach me:
 - **LinkedIn**: [Satyam Rai](https://www.linkedin.com/in/satyamrai0511)
-- **Email**: [satyamrai0511@example.com](mailto:satyamrai0511@example.com)
+- **Email**: [satyamrai0511@example.com](mailto:satyamrai@outlook.com)
 - **Portfolio/Website**: Coming soon!
 
 ---
