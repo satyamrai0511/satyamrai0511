@@ -31,13 +31,13 @@ Welcome to my GitHub! I’m passionate about creating, learning, and contributin
 
 ### 📫 How to reach me:
 - **LinkedIn**: [Satyam Rai](https://www.linkedin.com/in/satyamrai0511)
-- **Email**: [satyamrai0511@example.com](mailto:satyamrai@outlook.com)
+- **Email**: [satyamrai@outlook.com](mailto:satyamrai@outlook.com)
 - **Portfolio/Website**: Coming soon!
 
 ---
 
 ### 😄 Pronouns:
-- he/him
+- He/Him/His
 
 ---
 
